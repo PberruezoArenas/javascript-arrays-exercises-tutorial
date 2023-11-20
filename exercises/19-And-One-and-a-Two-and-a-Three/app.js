@@ -5,6 +5,8 @@ let contact = {
 }
 
 for (let key in contact) {
+    console.log(key + " : " + contact[key]);
+
     // Your code here
 
 }
